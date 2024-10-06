@@ -1,0 +1,15 @@
+#main{
+    display: flex;
+    gap: 10px;
+    
+}
+
+#main > div > p{
+    font-size: 16px;
+    font-style:italic;
+    font-family: sans-serif;
+    font-weight: bold;
+    padding: 5px;
+}
+
+#main > div{box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;; text-align: center;}
